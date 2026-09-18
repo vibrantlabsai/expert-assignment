@@ -25,9 +25,6 @@ Useful experience includes:
 - Writing practical requirements and acceptance criteria.
 - Supporting user acceptance testing and seeing what happened after launch.
 
-**Ask them to contribute:** missing decisions and unrealistic assumptions in the models, plus examples of work that required negotiation or exceptions across teams.
-
-**Screening question:** “Tell us about a requirement that looked straightforward until you discussed exceptions with the people doing the work. What changed, and why?”
 
 ## 2. ServiceNow ITSM Technical Lead / Senior Technical Consultant
 
@@ -42,10 +39,6 @@ Useful experience includes:
 - Handling failed automation, partial fulfilment, conflicting updates, and recovery.
 - Explaining technical constraints and tradeoffs to process owners and operational teams.
 
-**Ask them to contribute:** workflow failure paths, missing dependencies, realistic automation boundaries, and episodes where recovery required coordination across systems and teams.
-
-**Screening question:** “Describe work that crossed several teams or systems and became stuck when one part failed. How was it detected, who took ownership, and how was completion verified?”
-
 ## 3. ServiceNow Developer / Administrator
 
 **Also search for:** ServiceNow Application Developer, ServiceNow System Administrator, ServiceNow Platform Support Engineer, ServiceNow Support Consultant.
@@ -59,43 +52,6 @@ Useful experience includes:
 - Supporting releases, upgrades, or regression testing.
 - Working directly with service desk staff, fulfilment teams, or process owners to resolve practical issues.
 
-**Ask them to contribute:** concrete operational edge cases, the information needed to diagnose them, actions taken, and evidence that the issue was resolved.
-
-**Screening question:** “Tell us about a recurring issue users reported that the configured workflow did not handle well. What did users do instead, and what did you change?”
-
-## What makes a strong contributor?
-
-- Personally participated in the work they describe.
-- Can explain the sequence, people involved, missing information, decisions, and outcome.
-- Distinguishes an organisation's chosen policy from platform behaviour or a local customisation.
-- Can challenge a proposed rule and suggest a practical alternative.
-- Shares anonymised examples without customer names, confidential documents, or identifiable records.
-
-For developers and administrators, narrow implementation work can still be valuable, but match the assignment to their actual exposure. Certifications are supporting evidence, not a substitute for practical examples.
-
-## Contribution formats
-
-**Model review — 30–60 minutes:** Read a short organisation brief and a focused set of models. Identify a few meaningful gaps, explain what happens in practice, and suggest changes. See the [review assignment](README.md).
-
-**Work episode interview — 45–60 minutes:** Walk through one complex case. Cover the trigger, initial information, roles, handoffs, decisions, setbacks, and evidence of completion. This is a separate session from model review.
-
-## Sourcing searches
-
-```text
-("ServiceNow" AND ("functional consultant" OR "business process consultant"
- OR "techno-functional" OR "business analyst"))
-AND ITSM
-AND (workshops OR "process design" OR UAT OR hypercare)
-
-("ServiceNow" AND ("technical lead" OR "senior technical consultant"
- OR "implementation lead"))
-AND ITSM
-AND (integrations OR fulfilment OR fulfillment OR "production support")
-
-("ServiceNow" AND (developer OR administrator OR "platform support"))
-AND ITSM
-AND (troubleshooting OR workflows OR approvals OR "production support")
-```
 
 ## Role references
 
